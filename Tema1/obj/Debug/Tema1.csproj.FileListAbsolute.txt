@@ -1,0 +1,7 @@
+D:\Cegeka\Tema1\Tema1\bin\Debug\Tema1.exe.config
+D:\Cegeka\Tema1\Tema1\bin\Debug\Tema1.exe
+D:\Cegeka\Tema1\Tema1\bin\Debug\Tema1.pdb
+D:\Cegeka\Tema1\Tema1\obj\Debug\Tema1.csprojAssemblyReference.cache
+D:\Cegeka\Tema1\Tema1\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+D:\Cegeka\Tema1\Tema1\obj\Debug\Tema1.exe
+D:\Cegeka\Tema1\Tema1\obj\Debug\Tema1.pdb
