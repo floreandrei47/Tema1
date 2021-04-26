@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Tema1
 {
-    class Fabrica
+    class Factory
     {   
-        public Fabrica()
+        public Factory()
         {
             cars = new List<Car>();
         }

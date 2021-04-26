@@ -5,3 +5,10 @@ D:\Cegeka\Tema1\Tema1\obj\Debug\Tema1.csprojAssemblyReference.cache
 D:\Cegeka\Tema1\Tema1\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
 D:\Cegeka\Tema1\Tema1\obj\Debug\Tema1.exe
 D:\Cegeka\Tema1\Tema1\obj\Debug\Tema1.pdb
+D:\Teme Cegeka\Tema1\Tema1\bin\Debug\Tema1.exe.config
+D:\Teme Cegeka\Tema1\Tema1\bin\Debug\Tema1.exe
+D:\Teme Cegeka\Tema1\Tema1\bin\Debug\Tema1.pdb
+D:\Teme Cegeka\Tema1\Tema1\obj\Debug\Tema1.csprojAssemblyReference.cache
+D:\Teme Cegeka\Tema1\Tema1\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+D:\Teme Cegeka\Tema1\Tema1\obj\Debug\Tema1.exe
+D:\Teme Cegeka\Tema1\Tema1\obj\Debug\Tema1.pdb

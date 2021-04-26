@@ -12,26 +12,26 @@ namespace Tema1
         static void Main(string[] args)
         {
 
-            Fabrica fabricaAuto = new Fabrica();
-            fabricaAuto.Name = "Fabrica Volkswagen";
+            Factory autoFactory = new Factory();
+            autoFactory.Name = "Fabrica Volkswagen";
 
 
             Car firstCar = new Car();
             firstCar.Model = "Golf";
             firstCar.Package = "Family";
             firstCar.Engine = "1.6 TFSI";
-            fabricaAuto.cars.Add(firstCar);
+            autoFactory.cars.Add(firstCar);
 
             Car secondCar = new Car();
             secondCar.Model = "Seat";
             secondCar.Package = "Sport+";
             secondCar.Engine = "2.0 TDI";
 
-            fabricaAuto.cars.Add(secondCar);
+            autoFactory.cars.Add(secondCar);
 
 
 
-            Console.WriteLine($"Choose an option for {fabricaAuto.Name}: ");
+            Console.WriteLine($"Choose an option for {autoFactory.Name}: ");
             Console.WriteLine("\t1 - Show cars");
             Console.WriteLine("\t2 - Count Cars");
             Console.WriteLine("\t3 - Add new car");
@@ -42,11 +42,11 @@ namespace Tema1
             {
                 case "1":
                     Console.Clear();
-                    fabricaAuto.ShowCar();
+                    autoFactory.ShowCar();
                     break;
                 case "2":
                     Console.Clear();
-                    fabricaAuto.CountCar();
+                    autoFactory.CountCar();
                     break;
                 case "3":
                     Console.Clear();
@@ -60,7 +60,7 @@ namespace Tema1
                     Console.WriteLine("Add the Engine:");
                     string newEngine = Console.ReadLine();
 
-                    fabricaAuto.AddCar(newModel, newPackage, newEngine);
+                    autoFactory.AddCar(newModel, newPackage, newEngine);
                     Console.Clear();
 
                     Console.WriteLine($"The new car is: {newModel} {newPackage} {newEngine}");
